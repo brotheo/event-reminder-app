@@ -21,8 +21,14 @@ A simple command-line Python application to schedule event reminders and notify 
 ---
 
 ## Project Structure
-![Screenshot 2025-06-14 075318](https://github.com/user-attachments/assets/a1e3d9d2-b3d5-4e7c-9db2-393f3b0f1537)
 
+
+event-reminder-app/
+
+
+           ├── main.py # Main program with menu and user interaction
+
+           └── reminder.py # Reminder class handling event scheduling and alerts
 
 ---
 
